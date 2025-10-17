@@ -1,5 +1,5 @@
 networks:
-  expense: {}                 #creating customer bridge network name "expense"
+  expense: {}                 #creating custom bridge network name "expense"
 # docker volume create mysql
 volumes:
   mysql:
